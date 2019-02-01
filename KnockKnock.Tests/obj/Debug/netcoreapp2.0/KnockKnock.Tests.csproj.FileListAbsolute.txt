@@ -1,0 +1,34 @@
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csprojAssemblyReference.cache
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.AssemblyInfoInputs.cache
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.AssemblyInfo.cs
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.deps.json
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.runtimeconfig.json
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.runtimeconfig.dev.json
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.pdb
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.pdb
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csproj.CopyComplete
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.dll
+C:\Users\dpanicker\source\repos\KnockKnock2\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.pdb
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.deps.json
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.runtimeconfig.json
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.runtimeconfig.dev.json
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.Tests.pdb
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\bin\Debug\netcoreapp2.0\KnockKnock.pdb
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csprojAssemblyReference.cache
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.AssemblyInfoInputs.cache
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.AssemblyInfo.cs
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.csproj.CopyComplete
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.dll
+C:\Users\dpanicker\source\repos\Final Solution\KnockKnock\KnockKnock.Tests\obj\Debug\netcoreapp2.0\KnockKnock.Tests.pdb
